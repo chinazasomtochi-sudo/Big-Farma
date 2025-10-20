@@ -1,6 +1,6 @@
 # Farmers and Consumers App Survey
 
-## 📘 Overview
+## Overview
 
 This project analyzes survey responses from both farmers and consumers to understand the challenges they face in selling and buying farm produce. The goal is to identify gaps that a digital platform or app could address to connect farmers directly with consumers.
 
@@ -36,8 +36,6 @@ The data was collected from an online survey completed by both farmers and consu
 
 The analysis revealed a clear gap between farmers and consumers that technology can bridge. Developing an easy-to-use mobile app could help improve access, pricing fairness, and communication between both sides of the agricultural market.
 
----
-
-✨ *Author: Somtochukwu*
-📅 *Project Type: Data Analysis (Survey Results)*
+ *Author: Somtochukwu*
+ *Project Type: Data Analysis (Survey Results)*
 
